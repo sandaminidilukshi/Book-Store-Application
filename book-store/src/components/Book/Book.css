@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:center ;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    margin: auto;
+    padding: 1rem;
+    width: 250p;
+    height: 100;
+    box-shadow: 5px 5px 10px #ccc;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
